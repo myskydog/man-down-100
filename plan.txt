@@ -1,0 +1,8 @@
+1) player health & minus health
+2) player animation
+3) wheel animation & player reducing effect
+4) bounce board & bounce effect
+5) death & show game over & restart button
+6) current score
+7) show highest record
+8) top death
